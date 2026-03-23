@@ -17,7 +17,7 @@
    ```
 3. Для PyQt5 версии установите зависимости:
    ```
-   pip install -r requirements.txt
+   pip install -r PyQt5
    ```
 4. Запустите нужную версию:
    ```
